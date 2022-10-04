@@ -1,0 +1,64 @@
+/* body */
+
+#body 
+{ 
+    background-color: darkgray, opacity 0.6; 
+    font-family: 'Times New Roman', Times, serif; 
+    padding:0px; 
+    margin:0px; 
+} 
+
+/* Wrapper*/
+
+#wrapper 
+{ 
+    width: 100%;height: 85%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: darkgray; 
+}
+
+#wrapper h1
+{ 
+    color: white
+}
+
+/* Banner*/
+#banner
+{ 
+    height:10%; 
+    background-image:linear-gradient(red, yellow);
+    width: 100%
+} 
+
+/* footer*/
+#footer 
+{ 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    background-image: radial-gradient(red, yellow);
+
+} 
+
+#footer h5
+{ 
+    color: white
+}
+
+#nav a
+{
+    color:#F2F2F2;
+    background-color:#F2F2F2;
+}
+
+/* info */ 
+#info 
+{
+    width: 60%;
+    height: 100%;
+    position: center;
+    color: lightgray;
+    background-color: lightgray;
+}
